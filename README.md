@@ -72,6 +72,7 @@ Secara garis besar, program ini bekerja dengan urutan berikut:
 
 ## Output di Terminal dan Database
 Tampilan di terminal
+
 <img width="811" height="688" alt="image" src="https://github.com/user-attachments/assets/48e189fb-2fb4-4131-a874-a3c02452656f" />
 
 Database sebelum lagu ditambahkan
