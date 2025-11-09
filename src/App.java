@@ -5,7 +5,7 @@ public class App {
     public static void main(String[] args) {
         try {
             // Koneksi ke database
-            String url = "jdbc:mysql://localhost:3306/music"; // sesuaikan dengan nama DB kamu
+            String url = "jdbc:mysql://localhost:3306/music"; 
             String user = "root";
             String password = ""; // isi jika ada password MySQL
             Connection conn = DriverManager.getConnection(url, user, password);
