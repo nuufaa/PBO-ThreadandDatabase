@@ -3,7 +3,7 @@
 **NIM:** `[F1D02310052]`
 
 ## 🎯 Deskripsi Tugas
-Tugas ini dibuat untuk **mendemonstrasikan penggunaan konsep *multithreading* dalam Java yang terhubung ke database MySQL**.  
+Tugas ini dibuat untuk mendemonstrasikan penggunaan konsep multithreading dalam Java yang terhubung ke database MySQL.  
 Program ini menggunakan beberapa thread yang berjalan secara paralel dengan tujuan:
 1. Menampilkan daftar lagu dari database.  
 2. Menambahkan lagu baru jika belum ada.  
@@ -71,3 +71,12 @@ Secara garis besar, program ini bekerja dengan urutan berikut:
 5. Setiap proses dijalankan secara bergantian menggunakan start() dan join() agar thread sebelumnya selesai sebelum thread berikutnya dimulai.
 
 ## Output di Terminal dan Database
+Tampilan di terminal
+<img width="811" height="688" alt="image" src="https://github.com/user-attachments/assets/48e189fb-2fb4-4131-a874-a3c02452656f" />
+
+Database sebelum lagu ditambahkan
+
+<img width="725" height="131" alt="image" src="https://github.com/user-attachments/assets/050e64ca-3c98-44a8-841b-72a5caac6374" />
+
+Database setelah lagu ditambahkan
+<img width="820" height="202" alt="image" src="https://github.com/user-attachments/assets/c3137952-7644-4eeb-956b-da0a5489bfb8" />
